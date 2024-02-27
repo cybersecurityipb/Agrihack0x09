@@ -1,2 +1,2 @@
-# tesrepo
-Mengetes repository untuk hektod
+# repo soal
+Mengetes repository untuk soal nanti
