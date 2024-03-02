@@ -1,1 +1,0 @@
-kerangka buat warm up
