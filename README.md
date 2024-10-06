@@ -1,2 +1,1 @@
-# repo soal
-Mengetes repository untuk soal nanti
+# Agrihack 0x08
