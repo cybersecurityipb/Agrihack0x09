@@ -1,5 +1,5 @@
 # SSS
-
+Created by : `ji4xuu`
 ## Deskripsi
 "Note that the mapping is injective... according to `@yqroo`, this is the easiest challenge, definitely worth a try!"
 
