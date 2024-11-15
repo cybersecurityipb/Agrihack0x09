@@ -1,7 +1,7 @@
 # Skibidi Math
 Created by : `ji4xuu`
 ## Deskripsi
-Do you think you're the master of the mystical Skibidi Math? Well, let's see if divisibility is really just a game to you!!!!
+Kamu tau divisibility gak well?? kamu tau relatif prima gak well??
 
 ## Attachment
 - [chall.py](chall.py)
