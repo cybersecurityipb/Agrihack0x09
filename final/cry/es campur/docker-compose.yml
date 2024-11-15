@@ -1,0 +1,8 @@
+version: '3'
+services:
+  crypto:
+    container_name: escampur
+    restart: always
+    build: .
+    ports:
+      - "9002:9002"
