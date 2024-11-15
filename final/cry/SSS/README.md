@@ -1,7 +1,7 @@
 # SSS
 
 ## Deskripsi
-"Note that the mapping is injective... according to @yqroo, this is the easiest challenge, definitely worth a try!"
+"Note that the mapping is injective... according to `@yqroo`, this is the easiest challenge, definitely worth a try!"
 
 ## Attachment
 - [source.py](source.py)
