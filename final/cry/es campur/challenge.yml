@@ -8,7 +8,7 @@ category: Cryptography
 description: |
     **Author**: `asburg`
 
-    nggak mau crypto, maunya es campur
+    es campur > es teler
 
 value: 0
 type: dynamic
@@ -17,14 +17,14 @@ extra:
     decay: 20
     minimum: 100
 
-connection_info: nc 34.50.87.57 9000
+connection_info: nc 34.50.87.57 9002
 
 # Flags specify answers that your challenge use. You should generally provide
 # at least one.
 # Can be removed if unused
 # Accepts strings or dictionaries
 flags:
-    - agrihack{35_c4mpur_3n4kk_b4ng3t}
+    - agrihack{35_c4mpur_3n4k_b4ng3t_cuy_9hvq91hd2nqp9h}
 
 # The state of the challenge.
 # This is visible by default. It takes two values: hidden, visible.
