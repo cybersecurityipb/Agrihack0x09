@@ -8,20 +8,15 @@ import binascii
 host = '34.50.87.57'
 port = 9002
 
-# Mencoba membuka koneksi
 io = remote(host, port)
-print("Koneksi berhasil ke server.")
 
-# Mengirim pilihan menu dan menerima respons awal
 io.recvuntil(b'Pilih menu (1-6): ')
 io.sendline(b'5')
 
-# Menerima data awal sampai semua elemen diterima
 response = io.recvuntil(b'Selesai').decode().strip()
 list_res = response.split()
 list_res.pop()
 
-# Membagi list ke dalam beberapa bagian sesuai kebutuhan
 c_list = list_res[:100]
 n_list = list_res[100:200]
 xor1_list = list_res[200:300]
